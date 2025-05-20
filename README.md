@@ -12,9 +12,13 @@
 
 
 ├── app.py               # Streamlit UI
+
 ├── chatbot.py           # Rule-based + LLM fallback logic
+
 ├── test_chatbot.py      # Unit tests using PyTest
-├── requirements.txt     # Python dependencies              
+
+├── requirements.txt     # Python dependencies             
+
 └── README.md            # Full project documentation
 
 🛠️ Getting Started
