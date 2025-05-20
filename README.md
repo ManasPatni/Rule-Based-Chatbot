@@ -1,12 +1,15 @@
 🤖 Rule Based Chatbot
+
 -This is a smart chatbot application built using **Streamlit** that combines **rule-based responses** with **Groq’s LLaMA 3 (8B)** API as a fallback when the chatbot doesn't recognize an input. It provides a real-time, interactive chat experience with both fixed and AI-generated answers.
 
 🚀 Features
-      - ✅ Rule-Based Pattern Matching
-      - 🤖 LLM Fallback using Groq's LLaMA 3
-      - 💬 Chat-style UI with Streamlit
-      - 🧪 PyTest for Unit Testing
-      - 🧼 Clean & Modular Codebase
+
+- ✅ Rule-Based Pattern Matching
+- 🤖 LLM Fallback using Groq's LLaMA 3
+- 💬 Chat-style UI with Streamlit
+- 🧪 PyTest for Unit Testing
+- 🧼 Clean & Modular Codebase
+
 
 📂 Project Structure
 
