@@ -1,14 +1,14 @@
-**🤖 Rule Based Chatbot**
+🤖 Rule Based Chatbot
 -This is a smart chatbot application built using **Streamlit** that combines **rule-based responses** with **Groq’s LLaMA 3 (8B)** API as a fallback when the chatbot doesn't recognize an input. It provides a real-time, interactive chat experience with both fixed and AI-generated answers.
 
-**🚀 Features**
+🚀 Features
       - ✅ Rule-Based Pattern Matching
       - 🤖 LLM Fallback using Groq's LLaMA 3
       - 💬 Chat-style UI with Streamlit
       - 🧪 PyTest for Unit Testing
       - 🧼 Clean & Modular Codebase
 
-**📂 Project Structure**
+📂 Project Structure
 
 
 ├── app.py               # Streamlit UI
@@ -17,7 +17,7 @@
 ├── requirements.txt     # Python dependencies              
 └── README.md            # Full project documentation
 
-**🛠️ Getting Started**
+🛠️ Getting Started
 
 1. Clone the Repo
   git clone https://github.com/ManasPatni/Rule-Based-Chatbot
@@ -29,10 +29,10 @@
 3. Run the Chatbot (Main Version)
    streamlit run app.py
 
-**🧪 Run Tests**
+🧪 Run Tests
     pytest
 
-**👨‍💻 Author**
+👨‍💻 Author
   Built with ❤️ by Manas Patni
 
 
